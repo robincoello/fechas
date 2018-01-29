@@ -163,7 +163,7 @@ $dias = array("Dom","Lun","Mar","Mie","Jue","Vie","Sab");
 $meses = array("Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic");
  
 
-return "$dias[$dia] $d $meses[$mes]";
+return "$dias[$dia], $d $meses[$mes]";
 
 
 //echo $dias[$dia].", ".$dia." de ".$meses[$mes-1]. " del ".$a ;
