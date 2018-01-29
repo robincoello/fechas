@@ -1,6 +1,9 @@
 <?php 
-//======================= 
-// regresa la fecha un dia antes de hoy
+/**
+ * regresa la fecha un dia antes de hoy
+ * @formato aa-mm-dd
+ * @return type
+ */
 function ayer()  {
 $a = date("Y");
 $m = date("m");
