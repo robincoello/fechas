@@ -1,5 +1,37 @@
 <?php
 
+// debo definir el formato de la fecha
+// 2018-09-18 aaaa-mm-dd
+
+/// Para la version siguiente pondre un prefij en las fechas
+// ponerlo multi idioma
+/**
+ * fechas_corta()
+ * fechas_larga()
+ * fechas_()
+ * 
+ * fechas_hoy()
+ * fechas_ayer()
+ * fechas_manana()
+ * 
+ * fechas_mes_anterior()
+ * fechas_mes_siguiente()
+ * fechas_mes_actual()
+ * 
+ * fechas_mes_corto()
+ * fechas_mes_largo()
+ * 
+ * fechas_suma_dias()
+ * fechas_suma_meses()
+ * fechas_suma_anos()
+ */
+
+
+
+
+
+
+
 /**
  * entrega la fecha de ayer en formato aaa-mm-dd
  * @return type
@@ -13,7 +45,7 @@ function ayer() {
 }
 
 /**
- * entrega la fecha de hoy en formato aaa-mm-dd
+ * entrega la fecha de hoy en formato aaaa-mm-dd
  * @return type
  */
 function hoy() {
